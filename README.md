@@ -1,4 +1,4 @@
-# 📋 ZOE Clipboard Book
+# 📋 ZOE Clipboard Book 
 
 ZOE Clipboard Book is an advanced clipboard manager that works like a notebook library.  
 Use it for coding, typing, or even inside games – **it works in fullscreen mode**.
