@@ -16,7 +16,7 @@ Tested on deep system layers and fullscreen applications, including TLauncher an
 
 ---
 
-## ⚠️ Deep-Layer Trick for TLauncher (if needed)
+## ⚠️ Deep-Layer Trick  (if needed)
 
 For some versions of minecraft java and deep fullscreen programs require prerequisites.(ArtificiaI-Window-ZOEZOE)
 
