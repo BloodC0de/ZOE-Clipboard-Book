@@ -1,1 +1,1 @@
-https://www.mediafire.com/file/kxjey3xz4i1q2c4/clipboard_book_x10.py/file
+https://www.mediafire.com/file/9btywqxi84auunz/ClipboardBookX10.py/file
